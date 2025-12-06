@@ -1,0 +1,21 @@
+{
+  "name": "dracula-oled",
+  "displayName": "dracula-oled",
+  "description": "Dracula Theme for Oled Display",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dracula-oled",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracula-oled.json"
+      }
+    ]
+  }
+}
